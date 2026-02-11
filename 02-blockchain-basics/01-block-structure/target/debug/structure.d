@@ -1,0 +1,1 @@
+/Users/sanghyeonkwon/conductor/workspaces/rust-basic/belgrade/02-blockchain-basics/01-block-structure/target/debug/structure: /Users/sanghyeonkwon/conductor/workspaces/rust-basic/belgrade/02-blockchain-basics/01-block-structure/src/main.rs
